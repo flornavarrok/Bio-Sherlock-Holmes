@@ -1,0 +1,38 @@
+*{
+  background-color:gray;
+    color:antiquewhite;
+    text-align: center;
+   
+    
+
+}
+   #imgPerfil{
+    border:solid 30px;
+    border-color: black;
+    width: 90%;
+
+  } 
+      .tituloPrincipal{
+      font-size: 500%;
+      font-style: italic;
+      text-decoration: underline;
+      font-family: 'Pinyon Script', cursive;
+    }
+    #bio{
+      font-size: 200%;
+      font-style: italic;
+      font-family: 'Pinyon Script', cursive;
+    }
+#desc {
+  font-size: 200%;
+  font-style: italic;
+  font-family: 'Pinyon Script', cursive;
+}
+li {
+  text-align: left;
+}
+#libros {
+  font-size: 200%;
+  font-style: italic;
+  font-family: 'Pinyon Script', cursive;
+}
