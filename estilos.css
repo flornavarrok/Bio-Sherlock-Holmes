@@ -19,6 +19,7 @@
       font-family: 'Pinyon Script', cursive;
     }
     #bio{
+      margin-top: 8px;
       font-size: 200%;
       font-style: italic;
       font-family: 'Pinyon Script', cursive;
@@ -30,9 +31,45 @@
 }
 li {
   text-align: left;
+  color: black;
 }
 #libros {
+  margin-top: 8px;
   font-size: 200%;
   font-style: italic;
   font-family: 'Pinyon Script', cursive;
+}
+#actores{
+  font-size: 200%;
+  font-style: italic;
+  font-family: 'Pinyon Script', cursive;
+}
+#link {
+  color: black;
+  
+
+}
+
+#drop {
+  color: black;
+}
+
+#disa{
+  color: black;
+}
+
+#boton {
+  color: black;
+  border-color: black;
+  background-color: antiquewhite;
+  
+}
+
+#carrusel {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  
+}
+
+#actores {
+  font-size: 200%;
 }
