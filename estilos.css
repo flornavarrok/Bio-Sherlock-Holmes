@@ -32,14 +32,17 @@
 li {
   text-align: left;
   color: black;
+  flex-direction: row-reverse;
 }
+
 #libros {
-  margin-top: 8px;
+  margin-top: 16px;
   font-size: 200%;
   font-style: italic;
   font-family: 'Pinyon Script', cursive;
 }
 #actores{
+  margin-top: 16px;
   font-size: 200%;
   font-style: italic;
   font-family: 'Pinyon Script', cursive;
@@ -68,8 +71,13 @@ li {
 #carrusel {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
   
+  
 }
 
 #actores {
   font-size: 200%;
+}
+
+.row{
+
 }
